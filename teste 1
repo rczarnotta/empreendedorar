@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+	<html style="background-color: rgb(224, 219, 219);">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Empreendedorar</title>
+</head>
+
+  <body style="background-color: rgb(228, 228, 151); padding: 40px; margin: 50px;">
+
+    A tag html é Amarela<br>
+    A tag body é cinza<br>
+	
+</body>
+</html>
